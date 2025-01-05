@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import * as React from "react";
 import { Paper } from "@mui/material";
 import Table from "@mui/material/Table";
