@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import React from "react";
 import { createBrowserRouter, Navigate, BrowserRouter } from "react-router-dom";
 import App from "../layout/App";
@@ -29,16 +30,11 @@ export const router = createBrowserRouter([
         children: [
           { path: "users", element: <Users /> },
           { path: "parkings", element: <Parkings /> },
-          { path: "report", element: <History/> },
-          
+          { path: "report", element: <History /> },
         ],
       },
     ],
   },
 ]);
 
-export const AppRouter = () => (
-  <BrowserRouter>
-    {router}
-  </BrowserRouter>
-);
+export const AppRouter = () => <BrowserRouter>{router}</BrowserRouter>;

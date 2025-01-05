@@ -1,3 +1,5 @@
+/* eslint-disable no-unused-vars */
+/* eslint-disable jsx-a11y/alt-text */
 import * as React from "react";
 import { Button, Container, Typography, Toolbar } from "@mui/material";
 import AppBar from "@mui/material/AppBar";

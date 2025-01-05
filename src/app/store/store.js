@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import { configureStore, combineReducers } from "@reduxjs/toolkit";
 import { userSlice } from "../../features/account/userSlice";
 import { persistReducer, persistStore } from "redux-persist";

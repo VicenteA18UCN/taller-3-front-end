@@ -1,3 +1,4 @@
+/* eslint-disable no-unused-vars */
 import axios, { AxiosError, AxiosResponse } from "axios";
 import { store } from "../store/store";
 
