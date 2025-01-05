@@ -188,7 +188,7 @@ const Login = () => {
                 mt={3}
                 textAlign={"center"}
               >
-                Panel 
+                Panel
               </Typography>
               <Typography
                 component="h1"
@@ -198,7 +198,7 @@ const Login = () => {
                 fontFamily={"roboto"}
                 mt={2}
               >
-                Inicia Sesión
+                Inicia Sesión TESTING
               </Typography>
               <Box
                 component="form"
