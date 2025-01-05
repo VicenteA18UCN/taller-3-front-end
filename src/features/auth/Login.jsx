@@ -199,7 +199,7 @@ const Login = () => {
                 fontFamily={"roboto"}
                 mt={2}
               >
-                Inicia Sesión TESTING
+                Inicia Sesión
               </Typography>
               <Box
                 component="form"
