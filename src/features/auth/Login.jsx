@@ -189,7 +189,7 @@ const Login = () => {
                 mt={3}
                 textAlign={"center"}
               >
-                Panel
+                Panel ParknMove
               </Typography>
               <Typography
                 component="h1"
